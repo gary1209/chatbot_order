@@ -1,0 +1,106 @@
+{
+    "main": {
+        "訂飲料": "drinkMenu",
+        "訂餐點": "foodMenu",
+        "結帳": "checkOut"
+    },
+    "drink": [
+        {
+            "name": "紅茶",
+            "specs": [
+                {
+                    "name": "中杯",
+                    "prices": "20"
+                },
+                {
+                    "name": "大杯",
+                    "prices": "25"
+                }
+            ],
+            "picture":""
+        },
+        {
+            "name": "綠茶",
+            "specs": [
+                {
+                    "name": "中杯",
+                    "prices": "25"
+                },
+                {
+                    "name": "大杯",
+                    "prices": "35"
+                }
+            ],
+            "picture":""
+        },
+        {
+            "name": "牛奶",
+            "specs": [
+                {
+                    "name": "中杯",
+                    "prices": "15"
+                },
+                {
+                    "name": "大杯",
+                    "prices": "25"
+                }
+            ],
+            "picture":""
+        },
+        {
+            "name": "咖啡",
+            "specs": [
+                {
+                    "name": "中杯",
+                    "prices": "30"
+                },
+                {
+                    "name": "大杯",
+                    "prices": "40"
+                }
+            ],
+            "picture":""
+        },
+        {
+            "name": "檸檬氣泡水",
+            "specs": [
+                {
+                    "name": "中杯",
+                    "prices": "50"
+                },
+                {
+                    "name": "大杯",
+                    "prices": "70"
+                }
+            ],
+            "picture":""
+        }
+    ],
+    "food":[
+        {
+            "name": "巧克力蛋糕",
+            "prices": 75,
+            "picture":""
+        },
+        {
+            "name": "蘋果派",
+            "prices": 60,
+            "picture":""
+        },
+        {
+            "name": "可頌麵包",
+            "prices": 90,
+            "picture":""
+        },
+        {
+            "name": "杯子蛋糕",
+            "prices": 80,
+            "picture":""
+        },
+        {
+            "name": "泡芙",
+            "prices": 85,
+            "picture":""
+        }
+    ]
+}
